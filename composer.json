@@ -27,7 +27,7 @@
     ],
 
     "require": {
-        "php": ">=7.0",
+        "php": ">=8",
         "pragmarx/coollection": ">=0.8",
         "psr/simple-cache": "^2.0",
         "nette/caching": "^2.5|^3.0",
